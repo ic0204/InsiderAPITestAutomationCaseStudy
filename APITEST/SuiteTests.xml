@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Insider API Test Automation Case Study">
+    <test name="API_TestAutomation">
+        <classes>
+            <class name="apitest.PositiveApiTest"/>
+            <class name="apitest.NegativeApiTest"/>
+        </classes>
+
+    </test>
+</suite>
