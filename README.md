@@ -1,4 +1,4 @@
-# InsiderAPITestAutomationCaseStudy
+# Insider API Test Automation Case Study
 
     Run SuiteTests.xml file
 
