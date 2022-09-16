@@ -1,6 +1,8 @@
 # Insider API Test Automation Case Study
 
-    Run SuiteTests.xml file
+
+
+* Run SuiteTests.xml file 
 
 The result of Api Test Automation
 
