@@ -1,8 +1,10 @@
 # Insider API Test Automation Case Study
 
 
-
+When you want to see the result of API test automation;
 * Run SuiteTests.xml file 
+
+
 
 The result of Api Test Automation
 
